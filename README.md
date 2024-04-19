@@ -13,7 +13,7 @@ The app is developed using JavaScript, HTML and Leaflet.js
 
 ## To use
 1. Clone the repository
-2. Open the index.html file. 
+2. Launch index.html 
 
 
 
